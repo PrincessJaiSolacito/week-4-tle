@@ -3,8 +3,8 @@
     <table border=“1">
 	<tr>
 		<th>NAME</th>
-		<th>ADDRESS<th>
-                <th>BIRTHDATE<th>
+		<th>ADDRESS</th>
+                <th>BIRTHDATE</th>
 	</tr>
         <tr>
 		<td> MRS. MO </td>
