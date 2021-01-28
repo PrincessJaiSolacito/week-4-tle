@@ -2,9 +2,9 @@
     <body bgcolor="yellow">
     <table border=“1">
 	<tr>
-		<td><b>NAME</b></td>
-		<td><b>ADDRESS</b></td>
-                <td><b>BIRTHDATE</b></td>
+		<th>NAME</th>
+		<th>ADDRESS<th>
+                <th>BIRTHDATE<th>
 	</tr>
         <tr>
 		<td> MRS. MO </td>
